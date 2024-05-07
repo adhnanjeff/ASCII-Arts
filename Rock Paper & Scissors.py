@@ -1,5 +1,5 @@
 # Rock Paper Scissors ASCII Art
-
+"-aj"
 # Rock
 print("""
     _______
